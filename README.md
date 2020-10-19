@@ -5,11 +5,11 @@ When creating an open-source project on GitHub, it's a necessaity to ensure you 
 ## Contents
 
 - [Installation](#installation)
-- [User Story](#userstory)
+- [User Story](#user-story)
 - [Usage](#usage)
 - [Demonstration](#demonstration)
 - [Screenshots](#screenshots)
-- [Questions](#questions)
+- [Questions](<#questions-(FAQ)>)
 - [Contact](#contact)
 - [Author](#authors)
 - [Acknowledgements](#acknowledgements)
