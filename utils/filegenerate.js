@@ -1,7 +1,7 @@
 const createFile = (answers) => {
     return `
 # ${answers.projectTitle}
-![badge](https://img.shields.io/badge/license-${answers.license}-green)<br />
+![badge](https://img.shields.io/badge/License-${answers.license}-green.svg)<br />
 ## Description
 ${answers.description}
 ## Table of Contents
