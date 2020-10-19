@@ -1,11 +1,9 @@
+
 # A fantastic readme
-
-![badge](https://img.shields.io/badge/license-Apache 2.0-green)<br />
-
+![badge](https://img.shields.io/badge/license-apache-2.0-green)<br />
 ## Description
 
 ## Table of Contents
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -14,40 +12,29 @@
 - [License](#license)
 - [Questions](#questions)
 - [Contact](#contact)
-  <a name="installation"></a>
-
+<a name="installation"></a>
 ## Installation :floppy_disk:
 
 <a name="usage"></a>
-
 ## Usage
-
-Install inquirer.js using npm i. Run in CLI. Follow the prompts. Get a readme!
+Follow the prompts after initializing with node index.js in CLI. 
 <a name="contributing"></a>
-
 ## Contributing
-
-Pull requests welcome!
+Pull requests welcome
 <a name="tests"></a>
-
 ## Tests
 
 ## License
-
-![badge](https://img.shields.io/badge/license-Apache 2.0-green)
+![badge](https://img.shields.io/badge/license-apache-2.0-green)
 <br />
-This application is covered by the Apache 2.0 license(s).
+This application is covered by the apache-2.0 license(s). 
 <a name="questions"></a>
-
 ## Questions
-
-Fun, free use readme generator.<br />
+No special instructions. Free use application.<br />
 <a name="contact"></a>
-
 ## Contact
-
 <br />
-Find me at: [](https://github.com/yourUsername2020)
+Find me at: [](https://github.com/yourUsername2021)
 *****
 <br />
 Email me with any questions: email@gmail.com
