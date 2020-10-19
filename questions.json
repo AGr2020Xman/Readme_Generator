@@ -27,27 +27,27 @@
     [
       {
         "name": "Apache license 2.0",
-        "value": "Apache 2.0"
+        "value": "apache-2.0"
       },
       {
         "name":"GNU General Public License v3.0",
-        "value": "GNU 3.0"
+        "value": "gpl-3.0"
       },
       {
         "name":"ISC",
-        "value":"ISC"
+        "value":"isc"
       },
       { 
         "name":"MIT",
-        "value":"MIT"
+        "value":"mit"
       },
       {
         "name":"Mozilla",
-        "value":"Mozilla"
+        "value":"mozilla"
       },
       {
         "name":"Open",
-        "value":"Open"
+        "value":"open"
       }
     ]  
   },
