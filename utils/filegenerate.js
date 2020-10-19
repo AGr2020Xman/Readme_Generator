@@ -33,7 +33,7 @@ ${answers.questions}<br />
 <a name="contact"></a>
 ## Contact
 <br />
-Find me at: [${answers.username}](https://github.com/${answers.username})
+Find me at: [](https://github.com/${answers.username})
 <br />
 Email me with any questions: ${answers.email}
 *****

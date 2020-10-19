@@ -53,7 +53,7 @@ No FAQs at this time<br />
 ## Contact
 
 <br />
-Find me at: [yourUsername2020](https://github.com/yourUsername2020)
+Find me at: [](https://github.com/yourUsername2020)
 <br />
 Email me with any questions: email@gmail.com
 *****
