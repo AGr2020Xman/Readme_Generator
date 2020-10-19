@@ -1,13 +1,15 @@
 const fs = require("fs").promises;
 // fs exported as promises for now
 const util = require("util");
+const readFileAsync = util.promisify(fs.readFile);
+const writeToFileAsync = util.promisify(fs.writeFile);
 const { prompt } = require("inquirer");
 // const
 
 const promptUser = async () => {
     // read the json file
     try{
-    const questionsJSON = await readFileAsync()
+    const questionsJSON = await readFileAsync("questions.json", "utf-8")
     const questions = JSON.parse(questionsJSON)
 
     if (questions) {
@@ -20,41 +22,18 @@ const promptUser = async () => {
 
 }
 
-
-const readFileAsync = () => 
-    new Promise ((resolve, reject) => {
-        fs.readFile("questions.json", "utf-8", (error, data) => {
-
-            if (error) {
-                reject(console.error("Error reading questions: ", error));
-            }
-          
-           resolve(questionSet);
-          
-          });
-          
-})
-
-
-
-
-// function to write README file
-writeToFile = (fileName, data) => {
-}
-
 // function to initialize program
 init = async () => {
     try {
-
         const input = await promptUser();
-        const generatedReadme = await writeToFile(input);
+        const generatedReadme = await writeToFileAsync(input);
         await createFile(generatedReadme)
     } catch (error) {
         if (error) {
             console.log('There was an error, please try again')
         }
     }
-    console.log("Success")
+    console.log("Successfully created readme file!")
 }
 
 // function call to initialize program
