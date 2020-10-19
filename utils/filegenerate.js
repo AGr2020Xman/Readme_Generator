@@ -1,6 +1,6 @@
 const createFile = (answers) => {
     return `
-    <h1 align="center">${answers.projectTitle}</h1>
+# ${answers.projectTitle}
 ![badge](https://img.shields.io/badge/license-${answers.license}-green)<br />
 ## Description
 ${answers.description}
@@ -28,7 +28,7 @@ ${answers.tests}
 ## License
 ![badge](https://img.shields.io/badge/license-${answers.license}-green)
 <br />
-This application is covered by the ${answers.license} license. 
+This application is covered by the ${answers.license} license(s). 
 <a name="questions"></a>
 ## Questions
 ${answers.questions}<br />

@@ -34,6 +34,8 @@ SO THAT can quickly create a professional README for a new project
 
 ## Usage
 
+- [Tutorial-Video]()
+
 - Use the below in the terminal to initiate the program.
 
 ```javascript
@@ -49,23 +51,35 @@ SO THAT can quickly create a professional README for a new project
 
 ## Screenshots
 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+_Initiate application from root directory in the terminal_
+![](.\assets\image1.JPG)
+_Follow initial prompts_
+![](.\assets\image2.JPG)
+_Follow your computer environments browser prompts_
+![](.\assets\image3.JPG)
+_Use your local editor in the specifically requesting prompts for ease of experience_
+![](.\assets\image4.JPG)
+_Select licenses using spacebar, and enter to submit_
+![](.\assets\image5.JPG)
+_Complete readme generation_
+![](.\assets\image6.JPG)
+_Sample of completed readme_
+![](.\assets\image7.JPG)
 
 ## Questions (FAQ)
 
+- The app runs in command-line. There is no GUI.
+- You only require the inquirer.js package for node.js.
+- This project is made to simplify the readme writing process, it isn't a permanent substitute.
+
 ## Contact
+
+- Contact me with any questions on my email: agre.fun21@gmail.com or silver.grech@gmail.com
 
 ## Author
 
 - Code from scratch by Andr&eacute; Grech - 24/09/2020
 
 ## Acknowledgements
+
+-
