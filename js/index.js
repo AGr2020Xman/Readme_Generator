@@ -1,5 +1,4 @@
 const fs = require("fs");
-// fs exported as promises for now
 const util = require("util");
 const promptUser = require("./promptUser");
 const createFile = require("./filegenerate");
