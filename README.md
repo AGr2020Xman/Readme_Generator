@@ -52,19 +52,19 @@ SO THAT can quickly create a professional README for a new project
 ## Screenshots
 
 _Initiate application from root directory in the terminal_
-![](README_generator\assets\image1.JPG)
+![](assets/image1.JPG)
 _Follow initial prompts_
-![](README_generator\assets\image2.JPG)
+![](assets/image2.JPG)
 _Follow your computer environments browser prompts_
-![](README_generator\assets\image3.JPG)
+![](assets/image3.JPG)
 _Use your local editor in the specifically requesting prompts for ease of experience_
-![](README_generator\assets\image4.JPG)
+![](assets/image4.JPG)
 _Select licenses using spacebar, and enter to submit_
-![](README_generator\assets\image5.JPG)
+![](assets/image5.JPG)
 _Complete readme generation_
-![](README_generator\assets\image6.JPG)
+![](assets/image6.JPG)
 _Sample of completed readme_
-![](README_generator\assets\image7.JPG)
+![](assets/image7.JPG)
 
 ## Questions (FAQ)
 
@@ -82,4 +82,4 @@ _Sample of completed readme_
 
 ## Acknowledgements
 
--
+- © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
