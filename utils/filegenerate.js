@@ -32,7 +32,6 @@ This application is covered by the ${answers.license} license(s).
 ${answers.questions}<br />
 <a name="contact"></a>
 ## Contact
-<br />
 Find me at: https://github.com/${answers.username}
 <br />
 Email me with any questions: ${answers.email}
