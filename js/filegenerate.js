@@ -18,22 +18,22 @@ ${answers.description}
 ## Installation :floppy_disk:
 ${answers.installation}
 <a name="usage"></a>
-## Usage :computer:
+## Usage
 ${answers.usage}
 <a name="contributing"></a>
-## Contributing :family:
+## Contributing
 ${answers.contributing}
 ## Screenshots
 Include logo/demo screenshot etc. ${answers.screenshots}
 <a name="tests"></a>
-## Tests :pencil2:
+## Tests
 ${answers.tests}
 ## License
 ![badge](https://img.shields.io/badge/license-${answers.license}-green)
 <br />
 This application is covered by the ${answers.license} license. 
 <a name="questions"></a>
-## Questions :question:
+## Questions
 ${answers.questions}<br />
 <a name="contact"></a>
 ## Contact
