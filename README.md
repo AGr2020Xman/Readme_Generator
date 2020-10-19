@@ -34,7 +34,7 @@ SO THAT can quickly create a professional README for a new project
 
 ## Usage
 
-- [Tutorial-Video]()
+- [Tutorial-Video](https://drive.google.com/file/d/167paLevDEC8N43PhQFAZCfl446QmIq5W/view)
 
 - Use the below in the terminal to initiate the program.
 
