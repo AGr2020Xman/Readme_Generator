@@ -17,7 +17,7 @@
   {
     "type": "input",
     "name": "usage",
-    "message": "Provide testing methods: "
+    "message": "Provide usage methods: "
   },
   {
     "type": "checkbox",
