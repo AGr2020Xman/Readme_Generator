@@ -1,7 +1,7 @@
 const fs = require("fs");
 const util = require("util");
 const promptUser = require("./promptUser");
-const createFile = require("./filegenerate");
+const createFile = require("./utils/filegenerate");
 const writeToFileAsync = util.promisify(fs.writeFile);
 
 
