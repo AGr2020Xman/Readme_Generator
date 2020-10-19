@@ -23,8 +23,6 @@ ${answers.usage}
 <a name="contributing"></a>
 ## Contributing
 ${answers.contributing}
-## Screenshots
-Include logo/demo screenshot etc. ${answers.screenshots}
 <a name="tests"></a>
 ## Tests
 ${answers.tests}
