@@ -64,7 +64,7 @@
   {
     "type": "input",
     "name": "questions",
-    "message": "What does the user know to know about using the repository (FAQ)?"
+    "message": "What does the user need to know about using the repository (FAQ)?"
   },
   {
     "type": "input",
