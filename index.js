@@ -10,7 +10,7 @@ init = async () => {
     try {
         const answers = await promptUser();
         const generatedReadme = createFile(answers);
-        await writeToFileAsync('demo_README.md', generatedReadme, 'utf8');
+        await writeToFileAsync('./generatedReadme/demo_README.md', generatedReadme, 'utf8');
     } catch (err) {
         if (err) {
             console.error('There was an error, please try again', err)
