@@ -2,7 +2,7 @@
   {
     "type": "input",
     "name": "projectTitle",
-    "message": "Enter Project title? ",
+    "message": "Enter Project title? "
   },
   {
     "type": "editor",
@@ -12,7 +12,7 @@
   {
     "type": "editor",
     "name": "installation",
-    "message": "Provide installation instructions for the application: ",
+    "message": "Provide installation instructions for the application: "
   },
   {
     "type": "input",
