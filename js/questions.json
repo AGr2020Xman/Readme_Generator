@@ -17,7 +17,7 @@
   {
     "type": "input",
     "name": "usage",
-    "message": "Provide testing methods:  "
+    "message": "Provide testing methods: "
   },
   {
     "type": "checkbox",
@@ -27,21 +27,27 @@
     [
       {
         "name": "Apache license 2.0",
-        "value": "apache-2",
-      }
+        "value": "apache"
+      },
       {
-        "name":"GNU",
-      }
+        "name":"GNU General Public License v3.0",
+        "value": "gnu"
+      },
       {
-        "ISC",
-      }
-      { "MIT",
-      }
+        "name":"ISC",
+        "value":"isc"
+      },
+      { 
+        "name":"MIT",
+        "value":"mit"
+      },
       {
-        "Mozilla",
-      }
+        "name":"Mozilla",
+        "value":"moz"
+      },
       {
-        "Open",
+        "name":"Open",
+        "value":"open"
       }
     ]  
   },
@@ -58,7 +64,7 @@
   {
     "type": "input",
     "name": "questions",
-    "message": "What does the user know to know about using the repository? "
+    "message": "What does the user know to know about using the repository (FAQ)?"
   },
   {
     "type": "input",

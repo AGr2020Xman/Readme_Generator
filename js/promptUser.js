@@ -1,4 +1,6 @@
 const { prompt } = require("inquirer");
+const util = require("util");
+const fs = require("fs");
 const readFileAsync = util.promisify(fs.readFile);
 
 
@@ -6,7 +8,7 @@ const readFileAsync = util.promisify(fs.readFile);
 const promptUser = async () => {
     // read the json file
     try{
-    const questionsJSON = await readFileAsync("questions.json", "utf-8");
+    const questionsJSON = await readFileAsync("questions.json", "utf-8").then((data)=>data);
     const questions = JSON.parse(questionsJSON);
 
     if (questions) {
@@ -18,5 +20,7 @@ const promptUser = async () => {
     }
 
 }
+
+promptUser()
 
 module.exports = promptUser
