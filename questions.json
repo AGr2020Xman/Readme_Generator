@@ -20,7 +20,7 @@
     "message": "Provide usage methods: "
   },
   {
-    "type": "checkbox",
+    "type": "list",
     "name": "license",
     "message": "Choose suitable license for this project: ",
     "choices": 

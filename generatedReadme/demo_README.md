@@ -1,9 +1,11 @@
-
 # A fantastic readme
-![badge](https://img.shields.io/badge/license-apache-2.0-green)<br />
+
+![badge](https://img.shields.io/badge/license-apache-green.svg)<br />
+
 ## Description
 
 ## Table of Contents
+
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -12,27 +14,38 @@
 - [License](#license)
 - [Questions](#questions)
 - [Contact](#contact)
-<a name="installation"></a>
+  <a name="installation"></a>
+
 ## Installation :floppy_disk:
 
 <a name="usage"></a>
+
 ## Usage
-Follow the prompts after initializing with node index.js in CLI. 
+
+Follow the prompts after initializing with node index.js in CLI.
 <a name="contributing"></a>
+
 ## Contributing
+
 Pull requests welcome
 <a name="tests"></a>
+
 ## Tests
 
 ## License
+
 ![badge](https://img.shields.io/badge/license-apache-2.0-green)
 <br />
-This application is covered by the apache-2.0 license(s). 
+This application is covered by the apache-2.0 license(s).
 <a name="questions"></a>
+
 ## Questions
+
 No special instructions. Free use application.<br />
 <a name="contact"></a>
+
 ## Contact
+
 <br />
 Find me at: [](https://github.com/yourUsername2021)
 *****

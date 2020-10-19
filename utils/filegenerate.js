@@ -26,8 +26,6 @@ ${answers.contributing}
 ## Tests
 ${answers.tests}
 ## License
-![badge](https://img.shields.io/badge/license-${answers.license}-green)
-<br />
 This application is covered by the ${answers.license} license(s). 
 <a name="questions"></a>
 ## Questions
