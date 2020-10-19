@@ -52,19 +52,19 @@ SO THAT can quickly create a professional README for a new project
 ## Screenshots
 
 _Initiate application from root directory in the terminal_
-![](.\assets\image1.JPG)
+![](assets\image1.JPG)
 _Follow initial prompts_
-![](.\assets\image2.JPG)
+![](assets\image2.JPG)
 _Follow your computer environments browser prompts_
-![](.\assets\image3.JPG)
+![](assets\image3.JPG)
 _Use your local editor in the specifically requesting prompts for ease of experience_
-![](.\assets\image4.JPG)
+![](assets\image4.JPG)
 _Select licenses using spacebar, and enter to submit_
-![](.\assets\image5.JPG)
+![](assets\image5.JPG)
 _Complete readme generation_
-![](.\assets\image6.JPG)
+![](assets\image6.JPG)
 _Sample of completed readme_
-![](.\assets\image7.JPG)
+![](assets\image7.JPG)
 
 ## Questions (FAQ)
 
