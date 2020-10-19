@@ -9,6 +9,7 @@ const promptUser = async () => {
     // read the json file
     try{
     const questionsJSON = await readFileAsync("questions.json", "utf-8").then((data)=>data);
+    console.log(questionsJSON)
     const questions = JSON.parse(questionsJSON);
 
     if (questions) {
