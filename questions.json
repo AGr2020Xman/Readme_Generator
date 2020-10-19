@@ -26,11 +26,11 @@
     "choices": 
     [
       {
-        "name": "Apache license 2.0",
+        "name": "Apache",
         "value": "apache-2.0"
       },
       {
-        "name":"GNU General Public License v3.0",
+        "name":"GNU",
         "value": "gpl-3.0"
       },
       {
