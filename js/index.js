@@ -1,7 +1,5 @@
-// array of questions for user
-const questions = [
+const questions = require("./questions.json")
 
-];
 
 // function to write README file
 writeToFile = (fileName, data) => {
